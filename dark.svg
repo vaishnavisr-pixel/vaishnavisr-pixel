@@ -7,7 +7,7 @@
     </linearGradient>
     <linearGradient id="asciiGrad" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#22D3EE"/><stop offset="100%" stop-color="#7C3AED"/></linearGradient>
     <clipPath id="avatarClip"><circle cx="200" cy="225" r="90" /></clipPath>
-    <clipPath id="typeClip"><rect x="535" y="160" height="40" width="0"><animate attributeName="width" values="0;0;320;320;0;0" dur="10s" repeatCount="indefinite" keyTimes="0;0.05;0.45;0.55;0.95;1"/></clipPath>
+    <clipPath id="typeClip"><rect x="535" y="160" height="40" width="0"><animate attributeName="width" values="0;0;320;320;0;0" dur="10s" repeatCount="indefinite" keyTimes="0;0.05;0.45;0.55;0.95;1"/></rect></clipPath>
   </defs>
   <rect width="1180" height="610" rx="24" fill="#030712" stroke="rgba(255,255,255,0.08)" stroke-width="2"/>
   <circle cx="200" cy="200" r="280" fill="#7C3AED" fill-opacity="0.12"><animate attributeName="cx" values="200;260;140;200" dur="12s" repeatCount="indefinite"/></circle>
