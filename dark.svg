@@ -21,7 +21,7 @@
     </circle>
     
     <!-- PLACE YOUR PROFILE PICTURE LINK IN THE HREF BELOW -->
-    <image xlink:href="myphoto.jpg" x="110" y="135" width="180" height="180" clip-path="url(#avatarClip)" />
+    <image href="myphoto.jpg" x="110" y="135" width="180" height="180" clip-path="url(#avatarClip)" />
     <g font-family="monospace" font-size="11" xml:space="preserve" fill="url(#asciiGrad)">
       <text x="35" y="55" opacity="0">&gt;_ SYS.INIT: INITIALIZED<animate attributeName="opacity" to="1" begin="0.3s" fill="freeze"/></text>
       <text x="35" y="375" opacity="0">&gt;_ IDENTITY LINK: CONNECTED [OK]<animate attributeName="opacity" to="1" begin="0.8s" fill="freeze"/></text>
