@@ -3,3 +3,5 @@
   <source media="(prefers-color-scheme: light)" srcset="light.svg">
   <img alt="Premium Developer Profile Hero Banner" src="light.svg">
 </picture>
+
+  
