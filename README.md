@@ -1,14 +1,14 @@
  <image>
   <source
     media="(prefers-color-scheme: dark)" 
-    srcset="https://githubusercontent.com"
+    srcset="dark.svg"
   />
   <source 
     media="(prefers-color-scheme: light)"
-    srcset="https://githubusercontent.com"
+    srcset="light.svg"
   />
   <img 
-    src="https://githubusercontent.com"
+    src="dark.svg"
     alt="Premium Developer Profile Hero Banner" 
   />
  </image>
