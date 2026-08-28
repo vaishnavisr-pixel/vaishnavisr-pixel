@@ -1,4 +1,4 @@
-<picture>
+ <picture>
   <source
     media="(prefers-color-scheme: dark)" 
     srcset="https://raw.githubusercontent.com/vaishnavisr-pixel/vaishnavisr-pixel/main/dark.svg?sanitize=true"
@@ -11,4 +11,4 @@
     src="https://raw.githubusercontent.com/vaishnavisr-pixel/vaishnavisr-pixel/main/dark.svg?sanitize=true"
     alt="Premium Developer Profile Hero Banner" 
   >
-</picture>
+ </picture>
