@@ -1,14 +1,14 @@
  <image>
   <source
     media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/vaishnavisr-pixel/vaishnavisr-pixel/main/dark.svg"
+    srcset="https://githubusercontent.com"
   />
   <source 
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/vaishnavisr-pixel/vaishnavisr-pixel/main/light.svg"
+    srcset="https://githubusercontent.com"
   />
   <img 
-    src="https://githubusercontent.com/vaishnavisr-pixel/vaishnavisr-pixel/main/dark.svg"
+    src="https://githubusercontent.com"
     alt="Premium Developer Profile Hero Banner" 
   />
  </image>
