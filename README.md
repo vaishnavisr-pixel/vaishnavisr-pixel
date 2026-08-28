@@ -1,14 +1,14 @@
  <image>
   <source
     media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.github.com/vaishnavisr-pixel/vaishnavisr-pixel/blob/main/dark.svg?raw=true"
+    srcset="https://raw.githubusercontent.com/vaishnavisr-pixel/vaishnavisr-pixel/main/dark.svg"
   />
   <source 
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.github.com/vaishnavisr-pixel/vaishnavisr-pixel/blob/main/light.svg?raw=true"
+    srcset="https://raw.githubusercontent.com/vaishnavisr-pixel/vaishnavisr-pixel/main/light.svg"
   />
   <img 
-    src="https://github.com/vaishnavisr-pixel/vaishnavisr-pixel/blob/main/dark.svg?raw=true"
+    src="https://githubusercontent.com/vaishnavisr-pixel/vaishnavisr-pixel/main/dark.svg"
     alt="Premium Developer Profile Hero Banner" 
   />
  </image>
